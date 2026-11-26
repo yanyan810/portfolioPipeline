@@ -1,0 +1,11 @@
+/Generated/
+/Intermediate/
+/TestResults/
+/inputs/
+**/__pycache__/
+*.py[cod]
+.venv/
+.env
+credentials.json
+token.json
+config.local.psd1
